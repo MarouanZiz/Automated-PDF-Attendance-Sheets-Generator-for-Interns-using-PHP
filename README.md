@@ -1,5 +1,3 @@
-# Automated-PDF-Attendance-Sheets-Generator-for-Interns-using-PHP
-Generate PDF : Project for SPHEREKNOWS by using FPDF
 <h1 style="color:#6c63ff;">Automated PDF Attendance Sheets Generator for Interns using PHP</h1>
 
 <p>

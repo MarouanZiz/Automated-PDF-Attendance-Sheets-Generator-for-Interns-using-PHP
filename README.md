@@ -11,12 +11,7 @@
     <li><strong>Database Integration:</strong> The project will integrate with a database to store intern details and attendance records, enabling quick data retrieval.</li>
     <li><strong>User-Friendly Interface:</strong> An intuitive user interface will be implemented to simplify the script's usage, allowing administrators to generate PDFs with just a click.</li>
     <li><strong>Modularity:</strong> The project will be designed with modularity in mind, enabling users to easily extend functionalities to suit their specific requirements.</li>
-    <li><strong>Enhanced Security:</strong> Data security will be a priority when handling intern information to ensure confidentiality and protection.</li>
 </ul>
-
-<p>
-    We believe in the value of an open-source solution and warmly welcome the community to contribute, offer suggestions, and report issues. Together, we can make this project a powerful and versatile tool for organizations seeking to streamline intern attendance management.
-</p>
 
 <h2 style="color:#6c63ff;">How to Contribute:</h2>
 <p>
@@ -26,6 +21,3 @@
     To report issues or request features, kindly open an issue and provide a clear description of the problem or proposed enhancement.
 </p>
 
-<p>
-    We are excited to collaborate with you and advance this project to assist organizations worldwide in simplifying their intern attendance tracking. Thank you for your interest in our project! 🚀
-</p>
